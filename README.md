@@ -1,9 +1,8 @@
 ### Hi there 👋
 ## Bem vindo ao meu perfil
 
-👨‍🎓 ADS 
+👨‍🎓 Análise e desenvolvimento de Sistemas. FATEC SP
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Java. HTML CSS
 
 
