@@ -7,10 +7,10 @@
 
 ------------------------------
 
-### Welcome to my profile
+ Welcome to my profile
 
-#### 👨‍🎓 Studying system analysis and development. FATEC SP
-#### 📝 Learning HTML, CSS, Git, Github and Java
-#### 💻 I'm looking for an internship.
+👨‍🎓 Studying system analysis and development. FATEC SP
+📝 Learning HTML, CSS, Git, Github and Java
+💻 I'm looking for an internship.
 
 
