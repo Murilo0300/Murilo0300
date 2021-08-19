@@ -1,9 +1,9 @@
 
 ## Bem vindo ao meu perfil
 
-### 👨‍🎓 Estudando análise e desenvolvimento de Sistemas. FATEC SP
-### 📝 Aprendendo HTML, CSS, Git, Github e Java
-### 💻 Estou à procura de estágio. 
+#### 👨‍🎓 Estudando análise e desenvolvimento de Sistemas. FATEC SP
+#### 📝 Aprendendo HTML, CSS, Git, Github e Java
+#### 💻 Estou à procura de estágio. 
 
 ------------------------------
 
