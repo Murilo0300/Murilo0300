@@ -3,7 +3,7 @@
 
 #### 👨‍🎓 Estudando análise e desenvolvimento de Sistemas. FATEC SP
 #### 📝 Aprendendo HTML, CSS, Git, Github e Java
-#### 💻 Estou à procura de estágio. 
+#### 💻 Estou à procura de estágio na área de desenvolvimento de sistemas. 
 
 ------------------------------
 
