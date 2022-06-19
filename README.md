@@ -15,4 +15,3 @@
 
 
 
-créditos Rafaella Ballerini & Anurag Hazra
