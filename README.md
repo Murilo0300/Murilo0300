@@ -2,7 +2,7 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://murilo0300.github.io/Curriculo/#about"><i>Murilo Cavalcanti</i></a> </h1>
   <h3 align="center">Estudo análise e desenvolvimento de sistemas na FATEC Zona Sul. São Paulo/SP<br>
-   Estou à procura de estágio na area de desenvolvimento de sistemas<h3>
+   Estagiario na Trust - Oracle Database PL/SQL <h3>
  
   
 <div align="center">
