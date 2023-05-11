@@ -1,6 +1,6 @@
 
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://murilo0300.github.io/Curriculo/#about"><i>Murilo Cavalcanti</i></a> </h1>
+  <h1 align="center">Oi Tudo bem? Eu sou o <i>Murilo Cavalcanti</i></a> </h1>
   <h3 align="center">Estudo análise e desenvolvimento de sistemas na FATEC Zona Sul. São Paulo/SP<br>
    Estagiario na Trust - Oracle Database PL/SQL <h3>
  
